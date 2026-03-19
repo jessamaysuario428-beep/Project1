@@ -28,8 +28,7 @@ body {
 	background-color: #fcfbe3;
 
     
-    background-image: 
-        url('images/wow.png'),  
+    background-image: url('images/wow.png'),  
 		linear-gradient(to bottom, #fcfbe3 0%, rgba(252, 251, 227, 0) 100%),
         url('images/water.gif'), 
         url();  
@@ -60,7 +59,7 @@ body {
     width: 500px; 
     border: none;
     text-align: left;
-    background-image: url('images/flower4-remove-preview.png');
+    background-image: url('images/flower4-removebg-preview.png');
     animation: floating 6s ease-in-out infinite;
     background-repeat: no-repeat;
     
