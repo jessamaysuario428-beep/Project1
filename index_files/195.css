@@ -29,9 +29,9 @@ body {
 
     
     background-image: 
-        url(/images/wow.png),  
+        url('images/wow.png'),  
 		linear-gradient(to bottom, #fcfbe3 0%, rgba(252, 251, 227, 0) 100%),
-        url(/images/water.gif), 
+        url('images/water.gif'), 
         url();  
 
     
@@ -60,7 +60,7 @@ body {
     width: 500px; 
     border: none;
     text-align: left;
-    background-image: url(/images/flower4-removebg-preview.png);
+    background-image: url('images/flower4-removebg-preview.png');
     animation: floating 6s ease-in-out infinite;
     background-repeat: no-repeat;
     
@@ -233,7 +233,7 @@ p {
 
 .design-selection ul li {
     
-    background: transparent url(/images/bouquet.png) no-repeat;
+    background: transparent url('images/bouquet.png') no-repeat;
     
     
     background-size: 25px;     
@@ -278,7 +278,7 @@ p {
 .preamble h3, 
 .explanation h3, 
 .participation h3 {
-    background-image: url(/images/sun.gif); 
+    background-image: url('images/sun.gif'); 
     background-repeat: no-repeat;
     background-position: left center;
     
@@ -301,7 +301,7 @@ p {
 }
 
 .explanation h3 {
-	background-image: url(/images/sun.gif);
+	background-image: url('images/sun.gif');
 	background-repeat: no-repeat;
 	background-position: left;
 	width: 340px;
@@ -309,7 +309,7 @@ p {
 }
 
 .participation h3 {
-	background-image: url(/images/sun.gif);
+	background-image: url('images/sun.gif');
 	background-repeat: no-repeat;
 	background-position: left;
 	width: 340px;
@@ -317,7 +317,7 @@ p {
 }
 
 .benefits h3 {
-	background: url(/images/sun.gif) no-repeat left center;
+	background: url('images/sun.gif') no-repeat left center;
     background-size: 50px;
     padding-left: 65px;
     display: flex;
@@ -328,7 +328,7 @@ p {
 }
 
 .requirements h3 {
-	background: url(/images/sun.gif) no-repeat left center;
+	background: url('images/sun.gif') no-repeat left center;
     background-size: 50px;
     padding-left: 65px;
     display: flex;
@@ -344,7 +344,7 @@ p {
 
 .design-selection h3 {
     
-    background-image: url(/images/flowers3.jpg); 
+    background-image: url('images/flowers3.jpg'); 
     background-repeat: no-repeat;
     background-position: left center;
     
@@ -366,7 +366,7 @@ p {
 .design-archives h3 {
 	
 	
-    background-image: url(/images/flowers3.jpg); 
+    background-image: url('images/flowers3.jpg'); 
     background-repeat: no-repeat;
     background-position: left center;
     
@@ -390,7 +390,7 @@ p {
 
 .zen-resources h3 {
 	
-    background-image: url(/images/flowers3.jpg); 
+    background-image: url('images/flowers3.jpg'); 
     background-repeat: no-repeat;
     background-position: left center;
     
